@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    width: 100%;
+}
+.nav-items {
+    width: 100%;
+
+    display: flex;
+    list-style-type: none;
+
+    background-color: red;
+}
+.item { 
+    padding: 10px 8px;
+}
