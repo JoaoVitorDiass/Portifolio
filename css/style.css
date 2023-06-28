@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --primaryColor: red;
+    --SecondColor:  green;
+}
+/* document.documentElement.style.setProperty('--primaryColor', 'green'); */
